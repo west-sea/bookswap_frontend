@@ -24,11 +24,13 @@ IDE: React Native CLI
 ### 1.4 Home
 ```
 -Can see other user's bookshelf by genre, send request, check notification of receiving and accepting requests.
--Genre by horizontal scroll 
+-three states for book: request, reqeusted, reservated
+-Genre with horizontal scroll layout, books with vertical scroll layout, menu with tab bar
 ```
 ### 1.5 Search
 ```
 -Can search book by title or author.
+-Send input text to 
 ```
 ### 1.6 Notification
 ```
