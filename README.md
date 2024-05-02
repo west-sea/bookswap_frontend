@@ -21,6 +21,10 @@ IDE: React Native CLI
 -Get profile by link to gallery appand select photo
 -Email and nickname as text, genre with toggle buttons
 ```
+### 1.3 Welcome
+```
+-Welcoming page
+```
 ### 1.4 Home
 ```
 -Can see other user's bookshelf by genre, send request, check notification of receiving and accepting requests.
