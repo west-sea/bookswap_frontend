@@ -64,7 +64,7 @@ IDE: React Native CLI
 ```
 -Change visibility
 ```
-### 1.7 Profile
+### 1.14 Profile
 ```
 -Profile
 ```
