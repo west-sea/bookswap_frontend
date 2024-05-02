@@ -51,9 +51,6 @@ IDE: React Native CLI
 ### 1.9 Bookshelf
 ```
   Show list of my uploaded books. 
-```
-### 1.10 notification
-```
   Receive notification for reqeuests from other users, for the specific book.
 ```
 ### 1.11 Upload
