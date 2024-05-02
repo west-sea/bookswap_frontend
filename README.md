@@ -21,43 +21,47 @@ IDE: React Native CLI
 -Get profile by link to gallery appand select photo
 -Email and nickname as text, genre with toggle buttons
 ```
-### 1.3 Welcome
+### 1.4 Welcome
 ```
 -Welcoming page
 ```
-### 1.4 Home
+### 1.5 Home
 ```
 -Can see other user's bookshelf by genre, send request, check notification of receiving and accepting requests.
 -three states for book: request, reqeusted, reservated
 -Genre with horizontal scroll layout, books with vertical scroll layout, menu with tab bar
 ```
-### 1.5 Search
+### 1.6 Search
 ```
 -Can search book by title or author.
 -Send input text to 
 ```
-### 1.6 Notification
+### 1.7 Notification
 ```
 -Receive notification for received book request and accepted book request.
 ```
-### 1.7 Message
+### 1.8 Message
 ```
   Show list of messages with other users. 
 ```
-### 1.8 Message Inner
+### 1.9 Message Inner
 ```
   Send and receive message with the specific user.
 ```
-### 1.9 Bookshelf
+### 1.10 Request List
+```
+  Send and receive message with the specific user.
+```
+### 1.11 Bookshelf
 ```
   Show list of my uploaded books. 
   Receive notification for reqeuests from other users, for the specific book.
 ```
-### 1.11 Upload
+### 1.12 Upload
 ```
   Add a new book to exchange.
 ```
-### 1.12 Edit
+### 1.13 Edit
 ```
 -Edit book info.
 ```
@@ -69,6 +73,25 @@ IDE: React Native CLI
 ```
 -Profile
 ```
-
+### 1.15 My requests
+```
+-List of my book requests
+```
+### 1.16 Edit
+```
+-Edit book info.
+```
+### 1.17 Swap Complete
+```
+-Page for complete exchange
+```
+### 1.18 Introduction
+```
+-Introducing our team
+```
+### 1.19 Language selection
+```
+-Select language
+```
 
 
