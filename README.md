@@ -25,10 +25,10 @@
 ## Frontend
 language: Javascript
 IDE: React Native CLI
-
+```
 ## Screen
  - Splash
-
+```
 Start screen with app logo. 
 Go to 'Login' when touched.
 
