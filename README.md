@@ -27,14 +27,12 @@ language: Javascript
 IDE: React Native CLI
 
 ## Screen
+### Splash
 ```
- - Splash
-
 Start screen with app logo. 
 Go to 'Login' when touched.
 ```
-```
- - Login
+### Login
    
 Sign in with google account. If data exists at DB, go to 'Home'. Else, go to 'Onboard' and create a new profile. 
 ```
